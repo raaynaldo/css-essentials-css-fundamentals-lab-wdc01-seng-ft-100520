@@ -15,6 +15,10 @@ a{
   background-color: grey;
 }
 
+figcaption{
+  font-size: 12;
+}
+
 #featured-property{
   text-align: center;
 }
