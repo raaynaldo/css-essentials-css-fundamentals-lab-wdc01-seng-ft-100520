@@ -14,3 +14,7 @@ a{
   padding-right: 10px;
   background-color: grey;
 }
+
+#featured-property{
+  width: 50%
+}
